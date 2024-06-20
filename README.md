@@ -2,7 +2,7 @@
 Emailer is an advanced & premium-quality email sending plugin. It allows you to either connect to the default gmail smtp service or your own, and send real emails to players. Your can either send emails using HTML, or, if you're not familiar with it you can use plain text.
 
 ## Prerequisites
-- Java 8 (This project use deprecated gradle features)
+- Java 8 (This project used deprecated gradle features)
 - A spigot server running >= Spigot 1.8
 - An emailing service (Gmail will do)
 
